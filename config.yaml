@@ -11,8 +11,8 @@ slideshare_id:
 speaker_deck_id: 
 vimeo_id: 
 youtube_id: 
-width: 800
-height: 600
+width: 1280
+height: 800
 author:
   markup_language: :markdown
   name: Shugo Maeda
