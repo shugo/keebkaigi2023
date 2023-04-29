@@ -5,9 +5,11 @@ author
 
 # Do you have number keys?
 
+![](number_keys.jpg){:relative_height='90'}
+
 # My keyboard
 
-![](runner3680.jpg){:relative_height='100'}
+![](runner3680.jpg){:relative_height='90'}
 
 # My keyboard specs
 
@@ -31,15 +33,15 @@ author
 
 # Problem of SparkFun
 
-![](sparkfun_problem.jpg){:relative_height='100'}
+![](sparkfun_problem.jpg){:relative_height='90'}
 
 # Pico Micro was fine
 
-![](pico_micro.jpg){:relative_height='100'}
+![](pico_micro.jpg){:relative_height='90'}
 
 # Solved by soldering
 
-![](solved_sparkfun.jpg){:relative_height='100'}
+![](solved_sparkfun.jpg){:relative_height='90'}
 
 # T-Code
 
@@ -49,19 +51,18 @@ author
     * e.g., lb → 前, jb → 田
     * 40 * 40 = max 1600 characters
 
-# Keys for T-Code
+# 40 keys for T-Code
 
 |1|2|3|4|5|6|7|8|9|0|
 |Q|W|E|R|T|Y|U|I|O|P|
 |A|S|D|F|G|H|J|K|L|;|
 |Z|X|C|V|B|N|M|,|.|/|
 
-# If you have no number keys
+# No number keys, no dream
 
-* You have no dream
 * 3l → 夢
 
-# T-Code implementation
+# T-Code implementations
 
 * tc2 for Emacs
 * Custom romaji table for mozc
@@ -81,7 +82,7 @@ author
 
 # T-Code table
 
-* 1600 * 2 bytes
+* 1600 * 2 = 3200 bytes
 * Too large for keymap.rb
 * Modify PRK Firmware to store the table in ROM
 
