@@ -1,6 +1,6 @@
-# TODO: SLIDE TITLE
+# Why are number keys important?
 
-TODO: SLIDE DESCRIPTION
+Slides for KeebKaigi 2023
 
 ## For author
 
@@ -16,9 +16,9 @@ TODO: SLIDE DESCRIPTION
 
 ### Install
 
-    gem install rabbit-slide-shugo-KeebKaigi2023
+    gem install rabbit-slide-shugo-keebkaigi2023
 
 ### Show
 
-    rabbit rabbit-slide-shugo-KeebKaigi2023.gem
+    rabbit rabbit-slide-shugo-keebkaigi2023.gem
 
