@@ -79,6 +79,7 @@ author
     * Input method framework for Unix
 * Unicode input on IBus
     * Ctrl+Shift+u 3042 Space → あ(U+3042)
+    * Ctrl+Shift+u 29e3d Space → 𩸽(U+29E3D)
 
 # T-Code table
 
